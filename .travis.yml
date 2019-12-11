@@ -8,3 +8,7 @@ before_install:
 
 script: 
  - docker run omigit/docker-react npm run test -- --coverage
+
+
+
+
